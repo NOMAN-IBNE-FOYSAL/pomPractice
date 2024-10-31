@@ -1,0 +1,5 @@
+firefoxDriver=E:\\eclipseLatest\\drivers\\geckodriver-v0.34.0-win64\\geckodriver.exe
+chromeDriver=E:\\eclipseLatest\\drivers\\chromedriver-win64\\chromedriver.exe
+CTFA=D:\\eclipse\\specializedBrowsers\\chrome-win64\\chrome.exe
+urlGlobal=https://home.openweathermap.org/users/sign_in
+excelPath=E:\\csvFile\\document1.xlsx

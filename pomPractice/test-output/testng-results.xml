@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-30T22:49:56 BDT" name="Default suite" finished-at="2024-10-30T22:50:11 BDT" duration-ms="14144">
+    <groups>
+      <group name="navigation.menuNavigation">
+        <method signature="AppNavigationPF.verifyMenuNavigationPF()[pri:3, instance:org.openweathermap.Tests.AppNavigationPF@1b1426f4]" name="verifyMenuNavigationPF" class="org.openweathermap.Tests.AppNavigationPF"/>
+      </group> <!-- navigation.menuNavigation -->
+    </groups>
+    <test started-at="2024-10-30T22:49:56 BDT" name="Default test" finished-at="2024-10-30T22:50:11 BDT" duration-ms="14144">
+      <class name="org.openweathermap.Tests.AppNavigationPF">
+        <test-method signature="verifyMenuNavigationPF()[pri:3, instance:org.openweathermap.Tests.AppNavigationPF@1b1426f4]" started-at="2024-10-30T22:49:57 BDT" name="verifyMenuNavigationPF" description="test case for app navigation action" finished-at="2024-10-30T22:50:11 BDT" duration-ms="14121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMenuNavigationPF -->
+      </class> <!-- org.openweathermap.Tests.AppNavigationPF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
