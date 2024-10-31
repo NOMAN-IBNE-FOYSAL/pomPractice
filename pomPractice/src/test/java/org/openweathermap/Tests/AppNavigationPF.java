@@ -22,10 +22,10 @@ public class AppNavigationPF {
 		try {
 			homePF.menuElementsClickPF();
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
+			// stack trace for interrupted exception
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+			// stack trace for for IO exception
 			e.printStackTrace();
 		}
 		driver.quit();
