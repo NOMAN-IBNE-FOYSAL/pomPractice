@@ -20,12 +20,13 @@ public class AppNavigationPF {
 		String password = BrowserFactory.getData(0, 0, 1);
 		loginPF.enterWebsitePF(userEmail,password);
 		try {
+			//for clicking
 			homePF.menuElementsClickPF();
 		} catch (InterruptedException e) {
 			// stack trace for interrupted exception
 			e.printStackTrace();
 		} catch (IOException e) {
-			// stack trace for for IO exception
+			// stack trace for for IO exception 
 			e.printStackTrace();
 		}
 		driver.quit();
